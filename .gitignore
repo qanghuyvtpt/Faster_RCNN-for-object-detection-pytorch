@@ -1,0 +1,11 @@
+# Ignore dataset
+data/
+
+# ignore model weights
+train_model/*.pt
+
+# ignore tensorboard logs
+tensorboard/events.*
+
+# cache
+__pycache__/
